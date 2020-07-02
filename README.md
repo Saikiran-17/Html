@@ -1,10 +1,5 @@
 
 <html>
-
-   <head>
-      <title>HTML Unordered List</title>
-   </head>
-	
    <body>
       <ul>
          <li>Beetroot</li>
